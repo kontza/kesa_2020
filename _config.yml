@@ -1,3 +1,4 @@
 theme: jekyll-theme-merlot
 title: Kesä 2020
-owner_name: Juha Ruotsalainen
+github:
+  owner_name: Juha Ruotsalainen
