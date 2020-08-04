@@ -4,3 +4,6 @@ author:
   name: Juha Ruotsalainen
   email: juha.ruotsalainen@iki.fi
   github: kontza
+site:
+  github:
+    owner_name: Juha Ruotsalainen
